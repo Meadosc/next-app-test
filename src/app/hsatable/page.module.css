@@ -12,7 +12,11 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding-top:2rem;
+  margin-top: 2rem;
+  padding:1rem;
+  background-color: #d3d3d3;
+  border: 1px solid rgba(var(--callout-border-rgb), 0.3);
+  border-radius: var(--border-radius);
 }
 
 .title {
